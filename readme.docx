@@ -1,0 +1,48 @@
+README - My Task Manager
+
+Student Information:
+Name: Monica Collazo-Cofino 
+Student Number: 220296489 
+Due Date: 6 April 2026
+(Individual Assignment)
+
+Colour Palette:
+For this assignment, I decided not to use one main colour theme, but instead use colour in a more functional and visually appealing way. I 
+started with a very light base using whites, greys, and soft tones because I wanted it to look clean and easy to read. From there, I used 
+specific colours to represent different task statuses. The task bars are colour-coded based on status: red for overdue since it feels the most 
+urgent, yellow for due soon as more of a warning, blue for on track because it feels calmer, and green for completed to show that the task is 
+done. For the boards, I wanted different versions of the colours and gave users the option to choose their own board colours so they can 
+customize it to their preference or match a certain theme if they want. I also included a priority system where tasks can be marked as high, 
+medium, or low. Since the task bars are already coloured based on status, I added a small coloured dot next to the task name to represent 
+priority instead. This uses red for high, yellow for medium, and blue for low, using slightly darker shades so they still stand out. I was 
+inspired by Notion for this idea, since they use coloured dots to represent different categories like assignments or exams, and I adapted that 
+concept for priority instead. Lastly, I wanted to match the colours of the counters at the top with the same colours used for task statuses and 
+boards so everything stays consistent across the entire app.
+
+Overall Style & Theme:
+For the overall style of my app, I was really inspired by modern tools and applications. Some of my favourites that I took inspiration from are 
+Notion, Google Reminders and Chalk, which is an organizers for teachers that my sister introduced me too. A lot of my friends also mentioned 
+that they prefer Notions style, so that was what I going for. I also took inspiration from Kanban-style layouts like Trello, where everything 
+is organized into boards (Per the assignments requests). I wanted the design to feel clean, simple, and easy to use rather than overly styled 
+or complicated to look at, so I used rounded cards, and expandable task sections, similar to Trellos, so the app doesn’t feel cluttered.
+
+Outside of the required functions for the assignment, I wanted to add more functionalities that can make this app stand out and feel more like 
+kanban task manager. For example, I added an Upcoming Tasks section that shows tasks based on due date and priority. It automatically sorts 
+tasks by the closest due date first, and if tasks have the same date, it orders them by priority. It also excludes completed tasks or tasks 
+without dates so users can focus on what still needs to be done. I liked this idea as it serves kind of like a reminder for the users of whats 
+to be done first. I also created a Completed board that is automatically added. Instead of just deleting a task when its done, I thought making 
+a completed board and marking a task visually as done would fit better. I added a “Done” button that actually moves the task into the Completed 
+board but you can also just drag the task there as well. This helps keep the main boards clean and makes it easier to separate finished tasks 
+from active tasks.
+
+To make the app easier to use, I added a search bar and a filter, so users can quickly find tasks or filter them by status. I also used 
+expandable task cards. I orignally had the tasks shoiwng all the infomation underneath and thought it looked too big and too much, and I noticed 
+on Trello they had expandable options to view more actions and thought it was a good idea. So now if users click on a task they can see more 
+details like description, due date, priority, and notes, instead of showing everything at once. It also were the edit, delete, and done button 
+can be found for the tasks. 
+
+Inspired URLS:
+Notion: https://www.notion.com/
+Google Calendar Reminders: https://reminders.google.com
+Chalk Auth: https://www.chalk.com/
+Trello: https://www.trello.com/
